@@ -6,7 +6,7 @@
 int main(int argc, char *argv[]) {
 int numero1,numero2;
 
-printf ("iswsss")
+printf ("ingrese un numero")
 
 
 
